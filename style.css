@@ -1,0 +1,160 @@
+html,body {
+
+    max-width: 100%;
+    
+}
+
+
+
+#main {
+    background-color: hsl(212, 45%, 89%);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+.main1 {
+    background-color: hsl(0, 0%, 100%);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+
+    padding: 15px;
+    gap: 2px;
+    border-radius: 10px;
+    max-width: 240px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 200px;
+
+
+   
+
+}
+
+.main1 img {
+
+    width: 240px;
+    length: 240px;
+
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 11px;
+
+}
+.texts {
+    font-size : 15px;
+    font-family : fans;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    margin-bottom: 0.5px;
+    padding: 3px;
+
+ }
+ .text1 {
+    font-weight: 400;
+    font-size:15px;
+    font-family: 'Outfit', sans-serif;
+     margin-bottom: 10px;
+     opacity: 0.5;
+      padding: 13px;
+    
+
+ }
+
+.attribution { 
+    font-size: 0.6875rem; 
+    text-align: right 20px 30px; 
+    margin-top: 550px;
+    
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+ @media(max-width: 768px){
+
+.main{
+    max-height:10hv;
+}
+
+ .main1 {
+
+   background-color: hsl(0, 0%, 100%);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+
+    padding: 15px;
+    gap: 2px;
+    border-radius: 20px;
+    max-width: 350px;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    margin-right: 150px;
+    
+
+    }
+
+    .main1 img {
+
+    width: 330px;
+    length: 330px;
+
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 11px;
+
+}
+
+ .texts {
+    font-size : 20px;
+    font-family : fans;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    margin-bottom: 0.5px;
+    padding: 15px;
+    margin-left: 10px;
+    margin-right: 10 px;
+
+ }
+
+ .text1 {
+    font-weight: 400;
+    font-size:15px;
+    font-family: 'Outfit', sans-serif;
+     margin-bottom: 10px;
+     opacity: 0.5;
+     padding: 13px;
+     margin-left: 25 px;
+     margin-right: 25 px;
+    
+
+ }
+
+
+.attribution { 
+    font-size: 0.6875rem; 
+    text-align: right 20px 30px; 
+    position: absolute;
+    margin-top: 600px;
+    right: 10px;
+    
+    
+}
+
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+
+
+ }
