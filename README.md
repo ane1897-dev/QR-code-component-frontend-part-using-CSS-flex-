@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](screenshots/desktop-design-new.jpg)
-![](screenshots/mobile-design-new.jpg)
+![](screenshots/desktop design using flex.PNG)
+![](screenshots/mobile design using flex.PNG)
 
 
 ### Links
@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 there were so many new feature on each of the the languages i have used and you can try to make a design in many ways 
 
 ```css
-.main {
+#main {
   display: flex;
   justify-content: center;
   align-items: center;
