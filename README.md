@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/ane1897-dev/QR-code-component-frontend-part-using-CSS-flex-/tree/main)
+- Solution URL: (https://github.com/ane1897-dev/QR-code-component-frontend-part-using-CSS-flex-)
 - Live Site URL: (https://6ae4bfc3bcdff26d7f36e1f1--playful-zuccutto-317e34.netlify.app/)
 
 
