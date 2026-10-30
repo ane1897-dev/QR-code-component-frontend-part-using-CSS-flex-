@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ane1897-dev/QR-code-component-frontend-part-using-CSS-flex-/tree/main)
+- Live Site URL: (https://6ae4bfc3bcdff26d7f36e1f1--playful-zuccutto-317e34.netlify.app/)
 
 
 ### Built with
